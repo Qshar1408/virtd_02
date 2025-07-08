@@ -31,6 +31,17 @@
 
 Примечание: Облачная ВМ с Linux в данной задаче не подойдёт из-за ограничений облачного провайдера. У вас просто не установится virtualbox.
 
+
+![virtd_02](https://github.com/Qshar1408/virtd_02/blob/main/img/virtd_001.png)
+
+![virtd_02](https://github.com/Qshar1408/virtd_02/blob/main/img/virtd_002.png)
+
+![virtd_02](https://github.com/Qshar1408/virtd_02/blob/main/img/virtd_003.png)
+
+![virtd_02](https://github.com/Qshar1408/virtd_02/blob/main/img/virtd_004.png)
+
+![virtd_02](https://github.com/Qshar1408/virtd_02/blob/main/img/virtd_005.png)
+
 ## Задача 2
 
 1. Убедитесь, что у вас есть ssh ключ в ОС или создайте его с помощью команды ```ssh-keygen -t ed25519```
